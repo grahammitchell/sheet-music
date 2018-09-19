@@ -8,7 +8,7 @@
 	\new ChoirStaff <<
 		\new Voice = "tenor sax" {
 			\clef treble
-			\key g \major
+			\key c \major
 			\time 4/4
       \compressFullBarRests
 			R1*4
@@ -26,7 +26,7 @@
 			bes8) a g e fis4 d8 (b
 			b1)
 			R1*30
-			 
+
 		}	
 	>>
 }
