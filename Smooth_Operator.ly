@@ -20,6 +20,13 @@
 			b8 d e fis g e fis d
       e4 e,8 fis8 g8 a4 b8(
       b8) d4 e8 fis g d e
+			r4 e8 fis g a4 (bes8 
+			\break
+
+			bes8) a g e fis4 d8 (b
+			b1)
+			R1*30
+			 
 		}	
 	>>
 }
