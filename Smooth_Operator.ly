@@ -4,11 +4,12 @@
 	arranger = "arr. Graham Mitchell"
 }
 
-\transpose g ees  
+\transpose g e  
 \relative c' {
 	\new ChoirStaff <<
 		\new Voice = "tenor sax" {
 			\clef treble
+			\key g \major
 			\time 4/4
       \compressFullBarRests
 			R1*4
