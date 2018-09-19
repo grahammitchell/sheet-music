@@ -4,7 +4,7 @@
 	arranger = "arr. Graham Mitchell"
 }
 
-\transpose g e 
+\transpose g f 
 \relative c' {
 	\new ChoirStaff <<
 		\new Voice = "tenor sax" {
